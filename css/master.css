@@ -1,0 +1,31 @@
+html{
+  background-color: black;
+  text-align: center;
+  font-family: Verdana, sans-serif;
+  color: White;
+}
+
+h1{
+  font-size: 50px;
+  font-weight: normal;
+}
+
+h2{
+  font-weight: 300;
+  font-size: 42px;
+}
+
+p{
+  font-size: 21px;
+  color: Gray;
+}
+
+a{
+  font-size: 16px;
+  color: Aquamarine;
+}
+
+#copywrite{
+  text-align: right;
+  color: Gray;
+}
